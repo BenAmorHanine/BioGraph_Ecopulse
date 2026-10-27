@@ -1,4 +1,4 @@
-# EcoPulse - Using AI to build Complex Knowledge and Action Graph from Dense Information
+# BioGraph - Using AI to build Complex Knowledge and Action Graph from Dense Information
 
 
 ## Overview
@@ -29,7 +29,7 @@ Make sure you have several keys handy, including:
 
 ## Start with the notebooks. 
 
- You can get started with the notebook called `simple_graph`. Which is a straightforward end to end graph you can visualize and run from start to finish (Provided you get your keys in order)
+`simple_graph` is a straightforward end to end graph you can visualize and run from start to finish (Provided you get your keys in order)
  Progressing on to the agentic part is not really necessary, although you can if you want to just to play around (Just make sure you ahve enough Openai Credits)
 
 
